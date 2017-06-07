@@ -1,4 +1,4 @@
-![sprouts.city](~assets/sproutscity.png "sprouts.city")
+![sprouts.city](https://raw.githubusercontent.com/sproutscity/sproutscity-website/master/src/assets/sproutscity.png "sprouts.city")
 # The sprouts.city project
 
 ## About
